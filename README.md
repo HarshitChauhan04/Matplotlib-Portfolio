@@ -5,11 +5,12 @@ This Project is about Analysis and Data Visualisation from Matplotlib and Pandas
 Pandas: For Data Manipulation and Analysis
 Matplotlib: For Data Visualisation
 
-<>Python Code
-# Import Libraries
+# Python Code
+Import Libraries
 import pandas as pd
 import matplotlib.pyplotas plt
 
+# Project Description
 * Type of Restaurant do the majority of customers Order from: It Is Dining,Cafes,Others and Buffet asc order.
 * Total Votes of Restaurant received from Customers: Buffet,Cafes,Dining and Other asc order.
 * Ratings Of Restaurant: The High-Priced restaurant tend to have better ratings.
